@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/378
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Hart_Benton_(senator)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40499#Abridgment-of-the-Debates-of-Congress-from-1789-to-1856-Vol.-I--of-16-
 gutenberg_issued: '2012-08-14'
 gutenberg_type: Text
 identifiers:
